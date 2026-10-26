@@ -4,7 +4,9 @@ An interactive sales analytics dashboard built using **Tableau Public** to explo
 
 ## 📊 Dashboard Preview
 
-![Amazon Sales Dashboard](screenshots/amazon_sales_dashboard.png)
+<img width="1895" height="1040" alt="amazon_sales_dashboard" src="https://github.com/user-attachments/assets/b5c12059-0bc5-4991-b276-0a60091b972d" />
+
+
 
 ## 🎯 Project Overview
 
